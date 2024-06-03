@@ -9,4 +9,4 @@ new code
 
 conflict
 
-bug fixde
+bug fixed
