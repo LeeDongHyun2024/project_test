@@ -2,4 +2,4 @@ new code
 
 실습6 feat2
 
-testing again
+testing
