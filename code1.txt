@@ -9,3 +9,6 @@ new code
 
 conflict
 
+bug fix
+
+last fix
