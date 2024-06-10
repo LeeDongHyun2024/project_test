@@ -1,14 +1,3 @@
-Hello
-new code
-modify code
-11week modify
-new code
+hi im 13week
 
-실습4 in test
-실습6 in feat1
-
-conflict
-
-bug fix
-
-last fix
+hello im userB
